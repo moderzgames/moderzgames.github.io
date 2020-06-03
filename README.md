@@ -1,4 +1,4 @@
 # moderzgames.github.io
 ## M0D3RZ Games website!
-![Farmers Market Finder Demo](https://media.giphy.com/media/xVXvIOnkGY8IU/giphy.mp4)
+![Thats a wrap!](https://media.giphy.com/media/xVXvIOnkGY8IU/giphy.gif)
 <p>Thats it</p>
