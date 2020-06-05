@@ -1,4 +1,11 @@
-User-agent: *
+# Group 1
 Allow: /
 
 Sitemap: https://www.moderzgames.github.io/sitemap.xml
+
+# Group 2
+User-agent: Googlebot
+Disallow: /404.html
+Disallow: /nogoogle/
+Disallow: /backgrounds/
+Disallow: /zip.zip
