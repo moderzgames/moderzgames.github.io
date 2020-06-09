@@ -7,4 +7,3 @@ Sitemap: https://www.moderzgames.github.io/sitemap.xml
 User-agent: Googlebot
 Disallow: /404.html
 Disallow: /nogoogle/
-Disallow: /zip.zip
